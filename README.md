@@ -36,7 +36,7 @@ SmartStock-AI/
 - Heatmaps, time series plots, dish-ingredient mapping
 - Forecasting with XGBoost using quarterly trends
 
-## ▶How to Run
+## How to Run
 
 ```bash
 # Step 1: Install dependencies
